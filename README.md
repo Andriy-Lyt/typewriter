@@ -1,0 +1,1 @@
+this function types the letters of a string with the set delay.
